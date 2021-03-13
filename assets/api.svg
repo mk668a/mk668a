@@ -25,14 +25,14 @@ display: block;
 }
 
 .rank-circle-rim {
-stroke: #2f80ed;
-fill: none;
+    <!-- stroke: #2f80ed; -->
+    fill: none;
 stroke-width: 6;
 opacity: 0.2;
 }
 .rank-circle {
-stroke: #2f80ed;
-stroke-dasharray: 372;
+    <!-- stroke: #2f80ed; -->
+    stroke-dasharray: 372;
 fill: none;
 stroke-width: 6;
 stroke-linecap: round;
@@ -71,8 +71,6 @@ to {
   opacity: 1;
 }
 }
-
-    
   </style>
   undefined
   <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#E4E2E2" width="494" fill="#fffefe" stroke-opacity="1" />
@@ -88,8 +86,23 @@ to {
   <g data-testid="main-card-body" transform="translate(0, 55)">
 
     <g data-testid="rank-circle" transform="translate(400, 47.5)">
+
+      <linearGradient id="linear-gradient" gradientTransform="rotate(10)">
+        <stop offset="0%" stop-color="#FF0000" />
+        <stop offset="10%" stop-color="#FF7D00" />
+        <stop offset="20%" stop-color="#FEFF00" />
+        <stop offset="30%" stop-color="#28FF00" />
+        <stop offset="40%" stop-color="#00FFBD" />
+        <stop offset="50%" stop-color="#00FFFE" />
+        <stop offset="60%" stop-color="#00A6FF" />
+        <stop offset="70%" stop-color="#0F19FF" />
+        <stop offset="80%" stop-color="#1302FF" />
+        <stop offset="90%" stop-color="#FF00EC" />
+        <stop offset="100%" stop-color="#FF0000" />
+      </linearGradient>
+
       <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
-      <circle class="rank-circle" cx="-10" cy="8" r="40" />
+      <circle class="rank-circle" cx="-10" cy="8" r="40" stroke="url(#linear-gradient)" />
       <g class="rank-text">
         <text x="0" y="0" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">
       S++
