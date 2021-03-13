@@ -6,8 +6,10 @@ transition:all 300ms;
     }
 
     .wrapper:hover{
-      width:4950px;
-      height:1950px;
+      width:4950px !important;
+      height:1950px !important;
+      max-width:4950px !important;
+      max-height:1950px !important;
     }
 
     .header {
