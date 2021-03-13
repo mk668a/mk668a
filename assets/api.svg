@@ -1,5 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none" style="&#10;    /* margin: 10px; */&#10;">
+<svg xmlns="http://www.w3.org/2000/svg" class="wrapper" width="495" height="195" viewBox="0 0 495 195" fill="none" style="&#10;    /* margin: 10px; */&#10;">
   <style>
+
+    .wrapper{ 
+transition:all 300ms;
+    }
+
+    .wrapper:hover{
+      width:4950px;
+      height:1950px;
+    }
+
     .header {
       font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
       fill: #2f80ed;
