@@ -2,9 +2,6 @@
 
 <h2> 😇 Here is the GitHub top page of mk668a 🌈 <a><img src="./assets/The-Bicycle-Day-Image.jpg" width="32px" height="32px"/></a> </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="./assets/api.svg" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="./assets/api-top-langs.svg" />
-</a>
+<div>
+  <img src="https://skillicons.dev/icons?i=astro,react,redux,nextjs,vercel,gatsby,svelte,ts,js,html,css,sass,jquery,materialui,nodejs,nestjs,graphql,prisma,jest,webpack,vite,php,wordpress,py,flask,java,spring,rust,wasm,mysql,mongodb,aws,dynamodb,docker,firebase,git,github,gitlab,figma,ai,ps,xd,vscode,&theme=light" />
+</div>
