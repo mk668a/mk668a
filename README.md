@@ -4,6 +4,6 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,react,redux,nextjs,vercel,gatsby,svelte,ts,js,html,css,sass,jquery,materialui,nodejs,nestjs,graphql,prisma,jest,webpack,vite,php,wordpress,py,flask,java,spring,rust,wasm,mysql,mongodb,aws,dynamodb,docker,firebase,git,github,gitlab,figma,ai,ps,xd,vscode,&theme=light" />
+    <img src="https://skillicons.dev/icons?i=astro,react,nextjs,flutter,py,fastapi,java,rust,wasm,svelte,ts,js,html,sass,materialui,nodejs,nestjs,graphql,prisma,jest,vite,mysql,vercel,aws,dynamodb,docker,firebase,git,github,figma,vscode,&theme=light" />
   </a>
 </p>
