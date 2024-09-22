@@ -1,6 +1,6 @@
 # Hey man! 🤟🤟🤟
 
-<h2> 😇 Here is the GitHub top page of mk668a 🌈 <a><img src="./assets/The-Bicycle-Day-Image.jpg" width="32px" height="32px"/></a> </h2>
+<h2> 😇 Here is the GitHub top page of mk668a 💫 </h2>
 
 <p>
   <a href="https://skillicons.dev">
